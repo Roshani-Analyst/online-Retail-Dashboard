@@ -11,7 +11,7 @@ This project is part of my task from the **Tata Forage Virtual Internship Progra
 - **Top 10 Customers:** Ranked by Revenue  
 - **Top 10 Countries:** Analyzed by Quantity and Revenue  
 
-![Online Retail Dashboard]()
+![Online Retail Dashboard](https://github.com/Roshani-Analyst/online-Retail-Dashboard/blob/main/Online%20Retail%20(tata).png)
 
 ## Features
 - Dynamic visualization of sales data.
@@ -19,7 +19,7 @@ This project is part of my task from the **Tata Forage Virtual Internship Progra
 - Monthly trends in revenue generation.
 
 ## Tools Used
-- Microsoft Excel for data analysis and visualization.
+- Power BI for data analysis and visualization.
 - Dashboard design aligned with business insights.
 
 ## Learnings
